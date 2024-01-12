@@ -1,5 +1,8 @@
 ## web3:// 协议共学 | 从全链网络到以太坊未来技术
 
+<img width="663" alt="image" src="https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/81e1d712-8e77-43dd-83ed-ad822df1358e">
+
+
 ![image](https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/9861d786-4de1-4808-88fc-c2b488f45b7e)
 
 web3:// 协议是基于以太坊的去中心化版本的 http:// 协议，是区块链世界的数据通信基础，目前已经通过了 ERC-4804，成为以太坊生态标准之一。
@@ -33,11 +36,28 @@ web3:// 协议是基于以太坊的去中心化版本的 http:// 协议，是区
 
 最后一周，参与者将基于 web3:// 协议进行自由组队项目开发，发起人和 Maintainer 会积极带领，让大家一起完成项目产出。
 
-## Sponser
+# Sponser
 
-本次 Web3:// protocol colearning 由 **ETHStorage** 和 **Web3Builder** 倾情赞助
+本次 Web3:// protocol colearning 由 **ETHStorage** 和 **Web3BuidlerTech** 倾情赞助
 
-![image](https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/08c1ec62-5c5c-483a-a67b-40142970c848)
 
-![image](https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/7f23efde-85ee-490a-a23c-7e5012533124)
+<p align="center">
+  <img src="https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/08c1ec62-5c5c-483a-a67b-40142970c848" width="200" alt="Logo">
+</p>
+
+## **EthStorage**
+
+EthStorage 是一个基于以太坊的二层存储网络，采用独创的零知识存储证明技术，确保链下数据副本的安全，提供链上 CRUD 操作，兼容各种新型应用如全链NFT、去中心化网站等。EthStorage 是首个获得以太坊 L2 的生态基金的支持的存储 rollup 项目，以一亿美元估值完成了种子轮融资。
+
+
+<p align="center">
+  <img src="https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/7f23efde-85ee-490a-a23c-7e5012533124" width="200" alt="Logo">
+</p>
+
+
+## Web3BuidlerTech
+
+> Web3BuidlerTech 是一个完全开放的、为大家提供web3和最新技术的学习型Dao组织，旨在将Web3技术知识推向更高的发展水平，为社区成员提供更多的学习和交流机会，同时也为Web3技术的发展贡献力量。我们的目标是不断探索和推广Web3技术，促进Web3技术与实际应用的结合，为行业的创新和发展注入新的动力。
+每周，我们都会定期邀请web3业内的知名项目工程师、KOL等来举行分享会议，会议内容包括专题技术分享、知名机构研报解读、新项目解析、热点盘点等等。
+
 
