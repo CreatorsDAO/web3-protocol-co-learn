@@ -37,4 +37,7 @@ web3:// 协议是基于以太坊的去中心化版本的 http:// 协议，是区
 
 本次 Web3:// protocol colearning 由 **ETHStorage** 和 **Web3Builder** 倾情赞助
 
-[logo]
+![image](https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/08c1ec62-5c5c-483a-a67b-40142970c848)
+
+![image](https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/7f23efde-85ee-490a-a23c-7e5012533124)
+
