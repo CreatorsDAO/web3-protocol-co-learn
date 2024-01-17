@@ -5,6 +5,9 @@
 
 <img width="795" alt="image" src="https://github.com/CreatorsDAO/web3-protocol-co-learn/assets/33189338/b7ce5b6c-4428-4f18-a67d-b9a6d460c712">
 
+> - 形式不做要求，你舒服的方式都可以，只要能 prove 你做出来就好啦
+> - gist keep secret is fine, 因为 keep secret 可以保持作业无法被 search 到，并且持有 link 的人也可以读取里面的内容.
+
 **3. 将该作业链接(复制 URL 地址即可)提交到 [Tally 表单](https://tally.so/r/3EWLqr)，完成作业提交**
 
 Tally 链接: https://tally.so/r/3EWLqr
