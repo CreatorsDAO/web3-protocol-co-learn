@@ -5,8 +5,4 @@
   - 以太坊未来技术之DA: [Ethereum Data Availability Roadmap](https://docs.google.com/presentation/d/1-RPl7iIlV9fkyfTzNT6VAxwadlCT3TC6OZJCtyF1-J0/)
 
 - Youtube recording](https://youtu.be/lLhYyewC8zo)
-- [Assignments](./task-3.md)
-
-
-
-![作业](./task-3.md)
+- [作业 Assignments](./task-3.md)
